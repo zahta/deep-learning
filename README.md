@@ -10,7 +10,7 @@
 
 ### :books: PyTorch
   - [PyTorch Installation](https://pytorch.org/)
-    - Installation of CPU version of PyTorch for Python on windows, using conda: 
+    -  Python and CPU version of PyTorch on windows, using conda: 
       - Create a new environment by `conda create --name pytorch`.
       - Activate the new environment by `conda activate pytorch`.
       - Install some required packages, e.g., numpy by `conda install numpy -y`.
