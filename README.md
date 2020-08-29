@@ -27,4 +27,4 @@
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
   
 ### :star: Other useful links
-  - [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
+  - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
