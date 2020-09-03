@@ -28,3 +28,7 @@
   
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
+
+### :: Some interesting articles
+ - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
+ - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807) by Dang Ha The Hien
