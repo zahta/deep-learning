@@ -25,6 +25,7 @@
 ### :books: Books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
+  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
   
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
