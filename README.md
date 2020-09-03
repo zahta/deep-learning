@@ -6,7 +6,7 @@
 ---
 
 ### :paperclip:  Beginner's Guides
-  - Some beginner's guides can be found in my [Machine learning Repository](https://github.com/zata213/path2ml).
+  - Some beginner's guides can be found in [my Machine learning Repository](https://github.com/zata213/path2ml).
 
 ### :pencil2: PyTorch
   - **[PyTorch Installation](https://pytorch.org/)**
