@@ -27,6 +27,9 @@
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
   - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
   
+### :: Cheatsheet
+  - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
+  
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
 
