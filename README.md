@@ -42,3 +42,4 @@
 ### :newspaper: Some interesting articles
  - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
  - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807) by Dang Ha The Hien
+ - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
