@@ -23,7 +23,7 @@
        - To check the version, type `torch.__version__`.
        
  ### :pencil2: TensorFlow
-   - **[TensorFlow Installation in Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)**
+   - **[TensorFlow Installation using conda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)**
      - Install the current release of CPU-only TensorFlow by `conda create -n tf tensorflow`.
      - Install Jupyter lab by `conda install jupyterlab -y`.
      - Install some required packages, e.g., numpy by `conda install numpy -y`.
