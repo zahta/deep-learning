@@ -29,7 +29,8 @@
      - Install some required packages, e.g., numpy by `conda install numpy -y`.
   
    - **Verify The TensorFlow Installation from Jupyter lab:**
-     - To use TensorFlow, type `import tensorflow` 
+     - To use TensorFlow, type `import tensorflow`.
+     - To check the version, type `tensorflow.__version__`.
    
 ### :books: Books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
