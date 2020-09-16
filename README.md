@@ -21,7 +21,11 @@
     - **Verify The PyTorch Installation from Jupyter lab:**
        - To use PyTorch, type `import torch`: If you encounter with the error `[WinError 126] The specified module could not be found`, the [installation of Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) will likely solve the problem.
        - To check the version, type `torch.__version__`.
-      
+       
+ ### :pencil2: Tensorflow
+  - **[Tensorflow Installation in Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)**
+        - Install the current release of CPU-only TensorFlow by `conda create -n tf tensorflow`
+   
 ### :books: Books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
