@@ -45,7 +45,10 @@
   
 ### :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
-  
+
+### :star: Other good resources
+- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
+ 
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
 
