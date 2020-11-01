@@ -35,6 +35,9 @@
 ### :books: Books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
+  - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) by Jeremy Howard and Sylvain Gugger
+                         - Github repository: https://github.com/fastai/fastbook
+
   - [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
   - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 
