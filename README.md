@@ -50,8 +50,9 @@
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
 
 ### :star: Other good resources
-- Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
-- Stay hungry, stay foolish: [A good source to learn back propagation in different neural networks](https://www.adityaagrawal.net/blog/)
+  - Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
+  - Stay hungry, stay foolish: [A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
+
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
 
