@@ -43,6 +43,9 @@
 
 ### :video_camera: Video courses
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from Coursera
+  - [DEEP LEARNING](https://atcold.github.io/pytorch-Deep-Learning/) from NYU center for data science
+     - Instructors: Yann LeCun and Alfredo Canziani
+
   - [Practical Deep Learning with PyTorch](https://www.udemy.com/course/practical-deep-learning-with-pytorch/) from Udemy
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
   
