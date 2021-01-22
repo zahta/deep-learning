@@ -39,7 +39,7 @@
      - Github repository: https://github.com/fastai/fastbook
 
   - [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
-  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+  
 
 ### :video_camera: Video courses
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from Coursera
@@ -47,10 +47,17 @@
      - Instructors: Yann LeCun and Alfredo Canziani
 
   - [Practical Deep Learning with PyTorch](https://www.udemy.com/course/practical-deep-learning-with-pytorch/) from Udemy
-  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
   
 ### :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
+  
+### :white_flower: Graph Neural Networks(GNN)
+  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
+  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
+  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, et al.
+  - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
+  - [Graph Neural Networks: A Review of Methods and Applications] by Jie Zhou, et al.
 
 ### :star: Other good resources
   - Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
