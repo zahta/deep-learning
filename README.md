@@ -74,3 +74,4 @@
  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
  - [Top 10 Learning Resources for Graph Neural Networks](https://towardsdatascience.com/top-10-learning-resources-for-graph-neural-networks-f24d4eb2cc2b) by Kacper Kubara
  - [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi
+ - [How to get started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a) by Aleksa Gordić
