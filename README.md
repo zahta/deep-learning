@@ -69,6 +69,7 @@
 
 ### :newspaper: Some interesting articles
  - [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) by Jonny Brooks-Bartlett
+ - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) by Pavel Surmenok
  - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
  - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807) by Dang Ha The Hien
  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
