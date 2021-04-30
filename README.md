@@ -11,29 +11,10 @@ In this repository, I am going to write some of my experiences in studying Deep 
 ### :paperclip:  Beginner's Guides
   - Some beginner's guides can be found in [my Machine learning Repository](https://github.com/zata213/path2ml).
 
-### :pencil2: PyTorch
-  - **[PyTorch Installation](https://pytorch.org/)**
-    -  **Python and CPU version of PyTorch on windows, using conda:**
-       - Create a new environment by `conda create --name pytorch`.
-       - Activate the new environment by `conda activate pytorch`.
-       - Install Python by `conda install python -y`.
-       - Install Jupyter lab by `conda install jupyterlab -y`.
-       - Install some required packages, e.g., numpy by `conda install numpy -y`.
-       - Run the install command `conda install pytorch torchvision cpuonly -c pytorch`.
-       
-    - **Verify The PyTorch Installation from Jupyter lab:**
-       - To use PyTorch, type `import torch`: If you encounter with the error `[WinError 126] The specified module could not be found`, the [installation of Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) will likely solve the problem.
-       - To check the version, type `torch.__version__`.
-       
- ### :pencil2: TensorFlow
-   - **[TensorFlow Installation using conda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)**
-     - Install the current release of CPU-only TensorFlow by `conda create -n tf tensorflow`.
-     - Install Jupyter lab by `conda install jupyterlab -y`.
-     - Install some required packages, e.g., numpy by `conda install numpy -y`.
-  
-   - **Verify The TensorFlow Installation from Jupyter lab:**
-     - To use TensorFlow, type `import tensorflow`.
-     - To check the version, type `tensorflow.__version__`.
+### :books: Books
+  - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+  - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
+  - [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 
 ### :video_camera: Video courses
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from Coursera
@@ -71,5 +52,5 @@ In this repository, I am going to write some of my experiences in studying Deep 
   - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
   - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
 
-### :white_flower: Attention Mechanisms and Transformers
+### :dart: Attention Mechanisms and Transformers
   - 
