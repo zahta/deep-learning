@@ -44,15 +44,6 @@ In this repository, I am going to write some of my experiences in studying Deep 
   
 ### :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
-  
-### :white_flower: Graph Neural Networks(GNN)
-  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
-  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
-  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
-  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, et al.
-  - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
-  - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
-  - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
 
 ### :star: Other good resources
   - Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
@@ -70,3 +61,15 @@ In this repository, I am going to write some of my experiences in studying Deep 
  - [Top 10 Learning Resources for Graph Neural Networks](https://towardsdatascience.com/top-10-learning-resources-for-graph-neural-networks-f24d4eb2cc2b) by Kacper Kubara
  - [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi
  - [How to get started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a) by Aleksa Gordić
+  
+### :white_flower: Graph Neural Networks(GNN)
+  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
+  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
+  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, et al.
+  - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
+  - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
+  - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
+
+### :white_flower: Attention Mechanisms and Transformers
+  - 
