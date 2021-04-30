@@ -1,7 +1,10 @@
 
 ---
+# My path to Deep Learning
 
- :bulb: *The best way to predict the future is to create it. `Alan Kay`*    
+:bulb: *The best way to predict the future is to create it. `Alan Kay`*   
+ 
+In this repository, I am going to write some of my experiences in studying Deep learning. Also, I have included some good resources and some of my educational projects.
 
 ---
 
@@ -31,15 +34,6 @@
    - **Verify The TensorFlow Installation from Jupyter lab:**
      - To use TensorFlow, type `import tensorflow`.
      - To check the version, type `tensorflow.__version__`.
-   
-### :books: Books
-  - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-  - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
-  - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) by Jeremy Howard and Sylvain Gugger
-     - Github repository: https://github.com/fastai/fastbook
-
-  - [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
-  
 
 ### :video_camera: Video courses
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from Coursera
