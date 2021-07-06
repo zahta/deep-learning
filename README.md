@@ -1,10 +1,10 @@
 
 ---
-# My path to Deep Learning
+# My path to deep learning
 
 :bulb: **The best way to predict the future is to create it. `Alan Kay`**   
  
-In this repository, I am going to write some of my experiences in studying Deep learning. Also, I have included some good resources and some of my exercises and educational projects.
+In this repository, I am going to write some of my experiences in studying deep learning. Also, I have included some good resources and some of my exercises and educational projects.
 
 ---
 
