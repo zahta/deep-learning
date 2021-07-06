@@ -2,38 +2,33 @@
 ---
 # My path to Deep Learning
 
-:bulb: *The best way to predict the future is to create it. `Alan Kay`*   
+:bulb: **The best way to predict the future is to create it. `Alan Kay`**   
  
-In this repository, I am going to write some of my experiences in studying Deep learning. Also, I have included some good resources and some of my educational projects.
+In this repository, I am going to write some of my experiences in studying Deep learning. Also, I have included some good resources and some of my exercises and educational projects.
 
 ---
 
 ### :paperclip:  Beginner's Guides
   - Some beginner's guides can be found in [my Machine learning Repository](https://github.com/zata213/path2ml).
 
-### :books: Books
+### :books: Good reference books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   - [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code) by Eli Stevens, Luca Antiga, and Thomas Viehmann 
   - [Dive into Deep Learning](https://d2l.ai/) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 
-### :video_camera: Video courses
+### :video_camera: Some good video courses
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) from Coursera
   - [DEEP LEARNING](https://atcold.github.io/pytorch-Deep-Learning/) from NYU center for data science
-     - Instructors: Yann LeCun and Alfredo Canziani
-
   - [Practical Deep Learning with PyTorch](https://www.udemy.com/course/practical-deep-learning-with-pytorch/) from Udemy
   
 ### :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
 
-### :star: Other good resources
-  - Made With ML: [A collection of the best ML tutorials, toolkits and research organized by topic](https://madewithml.com/topics/)
-  - Stay hungry, stay foolish: [A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
-
 ### :star: Other useful links
   - GitHub Repository: [Deep-Learning](https://github.com/hhaji/Deep-Learning) by Hossein Hajiabolhassan
+  - Stay hungry, stay foolish: [A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
 
-### :newspaper: Some interesting articles
+### :newspaper: Some interesting blogs and notes
  - [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) by Jonny Brooks-Bartlett
  - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) by Pavel Surmenok
  - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
@@ -42,6 +37,7 @@ In this repository, I am going to write some of my experiences in studying Deep 
  - [Top 10 Learning Resources for Graph Neural Networks](https://towardsdatascience.com/top-10-learning-resources-for-graph-neural-networks-f24d4eb2cc2b) by Kacper Kubara
  - [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi
  - [How to get started with Graph Machine Learning](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a) by Aleksa Gordić
+ - [What does AUC stand for and what is it?](https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it) 
   
 ### :white_flower: Graph Neural Networks(GNN)
   - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
@@ -51,6 +47,3 @@ In this repository, I am going to write some of my experiences in studying Deep 
   - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
   - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
   - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
-
-### :dart: Attention Mechanisms and Transformers
-  - 
