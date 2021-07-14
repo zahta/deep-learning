@@ -47,3 +47,4 @@ In this repository, I am going to write some of my experiences in studying deep 
   - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
   - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
   - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
+  - [7 Open Source Libraries for Deep Learning on Graphs](https://dzone.com/articles/open-source-libraries-for-deep-learning-graphs) by Kevin Vu
