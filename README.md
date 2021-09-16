@@ -33,6 +33,7 @@ In this repository, I am going to write some of my experiences in studying deep 
  - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) by Pavel Surmenok
  - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
  - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807) by Dang Ha The Hien
+ - [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha
  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
  - [Top 10 Learning Resources for Graph Neural Networks](https://towardsdatascience.com/top-10-learning-resources-for-graph-neural-networks-f24d4eb2cc2b) by Kacper Kubara
  - [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi
