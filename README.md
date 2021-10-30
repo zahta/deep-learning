@@ -9,7 +9,7 @@ In this repository, I am going to write some of my experiences in studying deep 
 ---
 
 ### :paperclip:  Beginner's Guides
-  - Some beginner's guides can be found in [my machine learning repository](https://github.com/zata213/path2ml).
+  - Some beginner's guides can be found in my [machine learning repository](https://github.com/zata213/path2ml).
 
 ### :books: Good reference books
   - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
