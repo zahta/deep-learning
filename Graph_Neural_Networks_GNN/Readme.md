@@ -1,4 +1,4 @@
-# :white_flower: Graph Neural Networks(GNN)
+# :white_flower: Graph Neural Networks (GNNs)
   - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
   - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
