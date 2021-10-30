@@ -8,6 +8,13 @@ In this repository, I am going to write some of my experiences in studying deep 
 
 ---
 
+### :notebook_with_decorative_cover: Table of Contents
+  - [My PyTorch Tutorial](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial)
+  - [Building a Neural Network from Scratch with Python](https://github.com/zahta/path2dl/tree/master/Building_Neural_Network_Scratch_Python)
+  - [Projects and Exercises](https://github.com/zahta/path2dl/tree/master/Projects_Exercises)
+  - [Graph Neural Networks (GNNs)](https://github.com/zahta/path2dl/tree/master/Graph_Neural_Networks_GNN)
+
+
 ### :paperclip:  Beginner's Guides
   - Some beginner's guides can be found in my [machine learning repository](https://github.com/zata213/path2ml).
 
