@@ -10,7 +10,7 @@
     - [On Fashion MNIST Dataset](https://github.com/zahta/path2dl/tree/master/Projects_Exercises/Fashion_MNIST_Feedforward_Neural_Networks_FNN)
     - [On Pima Indians Diabetes Dataset](https://github.com/zahta/path2dl/tree/master/Projects_Exercises/Pima_Indians_Diabetes_Feedforward_Neural_Networks_FNN)
 
-* **Regularization and Optimization:**
+* **Regularization and Optimization Algorithms:**
 
     - [On Abalone Dataset](https://github.com/zahta/path2dl/tree/master/Projects_Exercises/Abalone_Regularization)
     - [On California Housing Dataset](https://github.com/zahta/path2dl/tree/master/Projects_Exercises/California_Housing_Values_Regularization)
