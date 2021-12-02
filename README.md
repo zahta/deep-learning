@@ -36,6 +36,7 @@ In this repository, I am going to write some of my experiences in studying deep 
   - Stay hungry, stay foolish: [A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
 
 ### :newspaper: Some interesting blogs and notes
+ - [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e) by Daniel Godoy
  - [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) by Jonny Brooks-Bartlett
  - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) by Pavel Surmenok
  - [A guide to convolution arithmetic for deep learning ](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin, and Francesco Visin
