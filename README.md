@@ -11,8 +11,13 @@ In this repository, I have written some of my experiences in studying deep learn
   - Some beginner's guides can be found in my [machine learning](https://github.com/zata213/path2ml) repository.
  
 ## :notebook_with_decorative_cover: Table of contents
+
+ ### :bulb: [Building a Neural Network from Scratch with Python](https://github.com/zahta/path2dl/tree/master/Building_Neural_Network_Scratch_Python)
+
+- [A three layers feedforward neural network from scratch with Python](https://github.com/zahta/path2dl/blob/master/Building_Neural_Network_Scratch_Python/3_layers_FNN.ipynb) by Zahra Taheri
+- [A neural network with an arbitrary number of layers and hidden sizes from scratch with Python](https://github.com/zahta/path2dl/blob/master/Building_Neural_Network_Scratch_Python/Arbitrary_layers_FNN.ipynb) by Zahra Taheri
   
-  ### :bulb: [My PyTorch Tutorial](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial)
+ ### :bulb: [My PyTorch Tutorial](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial)
 
   - [Getting Started with PyTorch](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Getting_Started_with_PyTorch)
   - [PyTorch Fundamentals](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/PyTorch_Fundamentals)
@@ -20,14 +25,9 @@ In this repository, I have written some of my experiences in studying deep learn
   - [Feedforward Neural Network](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Feedforward_Neural_Network)
   - [Convolutional Neural Network(CNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Convolutional_Neural_Network(CNN))
   - [Recurrent Neural Network(RNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Recurrent_Neural_Network(RNN))
-  - [Long Short Term Memory Network(LSTM)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Long_Short_Term_Memory_Networks(LSTM))
+  - [Long Short Term Memory Network(LSTM)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Long_Short_Term_Memory_Networks(LSTM))  
 
- ### :bulb: [Building a Neural Network from Scratch with Python](https://github.com/zahta/path2dl/tree/master/Building_Neural_Network_Scratch_Python)
-
-- [A three layers feedforward neural network from scratch with Python](https://github.com/zahta/path2dl/blob/master/Building_Neural_Network_Scratch_Python/3_layers_FNN.ipynb) by Zahra Taheri
-- [A neural network with an arbitrary number of layers and hidden sizes from scratch with Python](https://github.com/zahta/path2dl/blob/master/Building_Neural_Network_Scratch_Python/Arbitrary_layers_FNN.ipynb) by Zahra Taheri
-  
-### :pencil2: [Projects and Exercises](https://github.com/zahta/path2dl/tree/master/Projects_Exercises)
+ ### :pencil2: [Projects and Exercises](https://github.com/zahta/path2dl/tree/master/Projects_Exercises)
 
 
 * **Feedforward Neural Networks (FNNs):**
