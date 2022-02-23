@@ -14,13 +14,13 @@ In this repository, I have written some of my experiences in studying deep learn
   
   ### :bulb: [My PyTorch Tutorial](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial)
 
-- [Getting Started with PyTorch](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Getting_Started_with_PyTorch)
-- [PyTorch Fundamentals](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/PyTorch_Fundamentals)
-- [Logistic Regression](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Logistic_Regression)
-- [Feedforward Neural Network](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Feedforward_Neural_Network)
-- [Convolutional Neural Network(CNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Convolutional_Neural_Network(CNN))
-- [Recurrent Neural Network(RNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Recurrent_Neural_Network(RNN))
-- [Long Short Term Memory Network(LSTM)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Long_Short_Term_Memory_Networks(LSTM))
+  - [Getting Started with PyTorch](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Getting_Started_with_PyTorch)
+  - [PyTorch Fundamentals](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/PyTorch_Fundamentals)
+  - [Logistic Regression](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Logistic_Regression)
+  - [Feedforward Neural Network](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Feedforward_Neural_Network)
+  - [Convolutional Neural Network(CNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Convolutional_Neural_Network(CNN))
+  - [Recurrent Neural Network(RNN)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Recurrent_Neural_Network(RNN))
+  - [Long Short Term Memory Network(LSTM)](https://github.com/zahta/path2dl/tree/master/PyTorch_Tutorial/Long_Short_Term_Memory_Networks(LSTM))
 
  ### :bulb: [Building a Neural Network from Scratch with Python](https://github.com/zahta/path2dl/tree/master/Building_Neural_Network_Scratch_Python)
 
@@ -75,7 +75,7 @@ In this repository, I have written some of my experiences in studying deep learn
 ## :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
 
-## :white_flower: [Graph Neural Networks (GNNs)](https://github.com/zahta/path2dl/tree/master/Graph_Neural_Networks_GNN)
+## :white_flower: Graph Neural Networks (GNNs)
  
   - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
