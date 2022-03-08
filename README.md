@@ -105,13 +105,17 @@ In this repository, I have written some of my experiences in studying deep learn
   - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
   - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
 
-## :video_camera: Some good video courses
+## :video_camera: Good video courses
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
 
-## :newspaper: Some interesting blogs and notes
+## :newspaper: Interesting blogs and notes
   - [Best Graph Neural Network architectures: GCN, GAT, MPNN and more](https://theaisummer.com/gnn-architectures/) by Sergios Karagiannakos
   - [7 Open Source Libraries for Deep Learning on Graphs](https://dzone.com/articles/open-source-libraries-for-deep-learning-graphs) by Kevin Vu
   - [Over-smoothing issue in graph neural network](https://towardsdatascience.com/over-smoothing-issue-in-graph-neural-network-bddc8fbc2472) by Anas AIT AOMAR
   - [DEPTH CONSIDERED HARMFUL? Do we need deep graph neural networks?](https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59) by Michael Bronstein
   
+## 💡 Good papers
+
+### Datasets
+  - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/abs/2005.00687)
   
