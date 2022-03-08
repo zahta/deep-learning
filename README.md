@@ -99,13 +99,14 @@ In this repository, I have written some of my experiences in studying deep learn
 # :white_flower: Graph Neural Networks (GNNs)
 
 ## :books: Good reference books
-  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
-  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
+  - [Graph Representation Learning](https://www.morganclaypool.com/doi/10.2200/S01045ED1V01Y202009AIM046). Morgan & Claypool Publishers, 2020. by William L. Hamilton. [book](https://www.cs.mcgill.ca/~wlh/grl_book/)
+  - [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4), Cambridge University Press, 2021. by Yao Ma, and Jiliang Tang.
 
 ## :video_camera: Good video courses
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
 
 ## :newspaper: Interesting blogs and notes
+  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
   - [Best Graph Neural Network architectures: GCN, GAT, MPNN and more](https://theaisummer.com/gnn-architectures/) by Sergios Karagiannakos
   - [7 Open Source Libraries for Deep Learning on Graphs](https://dzone.com/articles/open-source-libraries-for-deep-learning-graphs) by Kevin Vu
   - [Over-smoothing issue in graph neural network](https://towardsdatascience.com/over-smoothing-issue-in-graph-neural-network-bddc8fbc2472) by Anas AIT AOMAR
