@@ -10,7 +10,7 @@ In this repository, I have written some of my experiences in studying deep learn
 ### :paperclip:  Beginner's guides
   - Some beginner's guides can be found in my [machine learning](https://github.com/zata213/path2ml) repository.
  
-## :notebook_with_decorative_cover: Table of contents
+## :notebook_with_decorative_cover: Table of contents of exercises
 
  ### :bulb: [Building a Neural Network from Scratch with Python](https://github.com/zahta/path2dl/tree/master/Building_Neural_Network_Scratch_Python)
 
