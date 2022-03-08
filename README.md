@@ -100,7 +100,8 @@ In this repository, I have written some of my experiences in studying deep learn
 
 ## :books: Good reference books
   - [Graph Representation Learning](https://www.morganclaypool.com/doi/10.2200/S01045ED1V01Y202009AIM046). Morgan & Claypool Publishers, 2020. by William L. Hamilton. [book](https://www.cs.mcgill.ca/~wlh/grl_book/)
-  - [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4), Cambridge University Press, 2021. by Yao Ma, and Jiliang Tang.
+  - [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4). Cambridge University Press, 2021. by Yao Ma, and Jiliang Tang.
+  - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478). arxiv 2021. by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
 
 ## :video_camera: Good video courses
   - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
