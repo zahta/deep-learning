@@ -1,10 +1,10 @@
 
 ---
-# My path to deep learning
+# Deep Learning
 
 :bulb: **The best way to predict the future is to create it. `Alan Kay`**   
  
-In this repository, I have written some of my experiences in studying deep learning. Also, I have included some good resources and some of my exercises and educational projects.
+In this repository, I have written some of my experiences in studying deep learning. Also, I have included some good resources and some of my exercises and educational projects. Furthermore, some good references about graph neural networks (GNNs) have been added.
 
 ---
 ### :paperclip:  Beginner's guides
@@ -74,18 +74,7 @@ In this repository, I have written some of my experiences in studying deep learn
   
 ## :scroll: Cheatsheets
   - [Super VIP Cheatsheet: Deep Learning](https://github.com/afshinea/stanford-cs-230-deep-learning/raw/master/en/super-cheatsheet-deep-learning.pdf) by Afshine Amidi and Shervine Amidi
-
-## :white_flower: Graph Neural Networks (GNNs)
  
-  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
-  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
-  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
-  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, et al.
-  - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
-  - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
-  - [Graph Attention Networks](https://arxiv.org/abs/1710.10903) by Petar Veličković, et al.
-  - [7 Open Source Libraries for Deep Learning on Graphs](https://dzone.com/articles/open-source-libraries-for-deep-learning-graphs) by Kevin Vu
-  
 ## :star: Some useful links to learn better
   - [Distill: Machine Learning Research Should Be Clear, Dynamic and Vivid](https://distill.pub/)
   - [Stay hungry, stay foolish: A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
@@ -105,4 +94,24 @@ In this repository, I have written some of my experiences in studying deep learn
  - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/) by Jason Brownlee
  - [A Gentle Introduction to Weight Constraints in Deep Learning](https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/) by Jason Brownlee
 
+---
 
+# :white_flower: Graph Neural Networks (GNNs)
+
+## :books: Good reference books and surveys
+  - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+  - [An introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5) by Joao Schapke
+  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, et al.
+  - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf) by Ziwei Zhang, et al.
+  - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by Jie Zhou, et al.
+
+## :video_camera: Some good video courses
+  - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) from Stanford University
+
+## :newspaper: Some interesting blogs and notes
+  - [Best Graph Neural Network architectures: GCN, GAT, MPNN and more](https://theaisummer.com/gnn-architectures/) by Sergios Karagiannakos
+  - [7 Open Source Libraries for Deep Learning on Graphs](https://dzone.com/articles/open-source-libraries-for-deep-learning-graphs) by Kevin Vu
+  - [Over-smoothing issue in graph neural network](https://towardsdatascience.com/over-smoothing-issue-in-graph-neural-network-bddc8fbc2472) by Anas AIT AOMAR
+  - [DEPTH CONSIDERED HARMFUL? Do we need deep graph neural networks?](https://towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59) by Michael Bronstein
+  
+  
