@@ -94,7 +94,7 @@ In this repository, I have written some of my experiences in studying deep learn
  - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/) by Jason Brownlee
  - [A Gentle Introduction to Weight Constraints in Deep Learning](https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/) by Jason Brownlee
  - [Perform Distributed Computing easily using Ray in Python](https://www.earthinversion.com/utilities/parallel-and-distributed-computing-in-python-using-ray/) by Utpal Kumar
-
+ - [Ray Core Walkthrough](https://docs.ray.io/en/latest/ray-core/walkthrough.html)
 ---
 
 # :white_flower: Graph Neural Networks (GNNs)
