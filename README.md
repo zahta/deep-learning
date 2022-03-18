@@ -93,6 +93,7 @@ In this repository, I have written some of my experiences in studying deep learn
  - [What does AUC stand for and what is it?](https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it) 
  - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/) by Jason Brownlee
  - [A Gentle Introduction to Weight Constraints in Deep Learning](https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/) by Jason Brownlee
+ - [Perform Distributed Computing easily using Ray in Python](https://www.earthinversion.com/utilities/parallel-and-distributed-computing-in-python-using-ray/) by Utpal Kumar
 
 ---
 
