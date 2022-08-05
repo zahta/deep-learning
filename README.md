@@ -78,6 +78,7 @@ In this repository, I have written some of my experiences in studying deep learn
 ## :star: Some useful links to learn better
   - [Distill: Machine Learning Research Should Be Clear, Dynamic and Vivid](https://distill.pub/)
   - [Stay hungry, stay foolish: A good source to learn back propagation for different neural networks](https://www.adityaagrawal.net/blog/)
+  - [Transformers from Scratch](https://e2eml.school/transformers.html)
 
 ## :newspaper: Some interesting blogs and notes
  - [Understanding PyTorch with an example: a step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e) by Daniel Godoy
